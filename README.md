@@ -5,7 +5,7 @@
 [Collab](https://colab.research.google.com/drive/10IPYai5ftrE648XTtJP4mKO1mm-EvBOv?usp=sharing) <br>
 Для задания были выбраны клеточная линия DND-41, гистоновая Метка H3K27me3 <br>
 <b> Анализ FastQC </b> <br>
-<br>
+[Папка с отчетами] (https://github.com/Pirozhok1967/hse_hw2_chip/tree/main/fastqc)<br>
 <b>ENCFF438GPS</b> <br>
 ![Снимок экрана 2022-03-10 в 20 53 18](https://user-images.githubusercontent.com/34075090/157725868-bb01ff23-4a09-4ebe-b822-224b60703f6b.png)
 ![Снимок экрана 2022-03-10 в 20 53 27](https://user-images.githubusercontent.com/34075090/157725867-1b07d47a-2de3-4f88-8853-a5c71bae2b9c.png)
