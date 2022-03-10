@@ -6,11 +6,10 @@
 Для задания были выбраны клеточная линия DND-41, гистоновая Метка H3K27me3 <br>
 ###Анализ FastQC <br>
 ENCFF438GPS до подрезания<br>
-![Снимок экрана 2022-03-10 в 20 54 03](https://user-images.githubusercontent.com/34075090/157725857-e86b532a-8616-48fb-a9fa-227aae57a248.png)
 ![Снимок экрана 2022-03-10 в 20 53 18](https://user-images.githubusercontent.com/34075090/157725868-bb01ff23-4a09-4ebe-b822-224b60703f6b.png)
 ![Снимок экрана 2022-03-10 в 20 53 27](https://user-images.githubusercontent.com/34075090/157725867-1b07d47a-2de3-4f88-8853-a5c71bae2b9c.png)
 ![Снимок экрана 2022-03-10 в 20 53 40](https://user-images.githubusercontent.com/34075090/157725865-9293175c-bea5-4fbe-81f8-78a4bf41e7cd.png)
-
+![Снимок экрана 2022-03-10 в 20 54 03](https://user-images.githubusercontent.com/34075090/157725857-e86b532a-8616-48fb-a9fa-227aae57a248.png)
 ENCFF438GPS после <br>
 ENCFF000AQN <br>
 ![Снимок экрана 2022-03-10 в 20 59 35](https://user-images.githubusercontent.com/34075090/157726149-f8c2e0d3-0110-4c1a-84e4-0008e5446689.png)
